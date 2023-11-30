@@ -1,0 +1,30 @@
+.cadstrologin x
+.colocar os dados do banco em um config
+.atalho para cadastro de autor e carregar o combo depois do cadastro ok
+.atalho para cadastro de assuntos e carregar o combo depois do cadastro
+
+.menu sair ok
+
+.fechar conexão com o banco ok
+
+.ano em livros tem que ter 4 digitos ok
+
+.relatorio de livros com filtro por autor e assunto
+
+.livro com mais de um autor ok
+
+.mensagens de confirmação inverter a ordem mesmo nas que já
+existem, a validação tem que vir antes ok
+
+.limpar os campos após o cadastro
+
+.testar deleção sem linha marcada
+
+.mouse pointer e tab nas caixas de texto
+
+.quando os atalhos forem carregados (autor e assunto)
+tem que setar o recém criado
+
+.alinhar objetos das telas de cadastros
+
+.na deleção não permitir se registro já tiver relação com livro???

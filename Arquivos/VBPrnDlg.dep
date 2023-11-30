@@ -1,0 +1,8 @@
+[Version]
+Version=2.1.0.0
+
+[VBPrnDlg.dll <0009>]
+Dest=$(WinSysPath)
+Date=8/21/2002
+Time=14:48
+Version=2.1.0.0

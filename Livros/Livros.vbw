@@ -1,0 +1,15 @@
+MDIMain = 260, 260, 1845, 902, , 234, 234, 1819, 876, C
+DBConect = 26, 26, 1320, 668, 
+frmLivroCadastro = 104, 104, 1398, 746, , 78, 78, 1372, 720, C
+LivroRepositorio = 286, 286, 1580, 928, 
+AutorRepositorio = 312, 312, 1606, 954, C
+AssuntoRepositorio = 0, 0, 1294, 642, C
+Funcionalidades = 26, 26, 1320, 668, 
+LivroService = 312, 312, 1606, 954, Z
+MensagensInterativas = 0, 0, 1294, 642, 
+AutorService = 26, 26, 1320, 668, 
+frmRelatorioLivros = 26, 26, 1328, 676, , 0, 0, 1302, 650, C
+frmAutorCadastro = 26, 26, 1326, 676, , 0, 0, 1300, 650, C
+frmAssuntoCadastro = 208, 208, 1612, 693, , 182, 182, 1586, 667, C
+AssuntoService = 0, 0, 1404, 485, 
+Relatorio = 104, 104, 1508, 589, 
